@@ -1,0 +1,33 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #dadce6;
+    color: #080809;
+}
+
+
+.headernome {
+    margin: 15% 15% 15% 15%;
+    text-align: center;
+    
+}
+
+.headernome h1{
+    padding: 25px;
+    
+}
+
+.listmenu{
+    list-style: none ;
+    display: inline;
+    padding: 2%;
+    border: solid;
+    border-color: rgb(11, 11, 11);
+}
+
+.linkmenu{
+     text-decoration: none;
+    }
+    .listmenu:hover{
+        background-color: rgb(216, 31, 161);
+        
+    }
